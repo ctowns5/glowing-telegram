@@ -1,8 +1,8 @@
 # glowing-telegram
-This is a node.js app that generates a logo.svg based on user input from the terminal.
-SVG logo generator (project Glowing-telegram)
+This is an app that generates a logo.svg based on user input from the terminal.
 
-    ## Table of Contents
+
+  ## Table of Contents
   - [Description](#Description)
   - [Usage](#Usage)
   - [Installation](#Installation)
@@ -29,10 +29,12 @@ SVG logo generator (project Glowing-telegram)
   ## Tests
   there are 3 tests, 1 for each shape offered, to execute the tests type npm run test in the terminal from the project folder.
 
-  # TODO
-  - screenshot of testing
-  - screenshot of app
-  - pic of sample logo
+  ## Picture of testing
+ ![picture of the testing after running](./images/tests.jpg)
+  ## Picture of app after running
+ ![picture of the app after running](./images/apprun.jpg)
+  ## Picture of example logo
+ ![picture of the example logo](./images/example.jpg)
 
   ## License
   Licensed under the [MIT](https://opensource.org/licenses/MIT) license
@@ -40,5 +42,6 @@ SVG logo generator (project Glowing-telegram)
 
   GitHub repository: https://github.com/ctowns5/glowing-telegram
   
-  Walkthrough video:
+  Walkthrough video: https://drive.google.com/file/d/1bHiG40Apkj7CfM9WR5L45V7d5JECsEm1/view
+
   
